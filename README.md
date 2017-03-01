@@ -1,2 +1,2 @@
-# andrewmapimagery.github.io
-Shared Credentials Test
+# sharedcredentials
+Repo for testing out shared credentials
